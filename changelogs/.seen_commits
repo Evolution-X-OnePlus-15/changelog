@@ -798,3 +798,12 @@ packages_apps_Evolver::New translations evolution_strings.xml (Turkish)
 packages_apps_Evolver::Evolver: trickystore: sync default target modes with TEESimulator
 packages_apps_Evolver::Evolver: trickystore: expand patch date dialog to multi-line format
 packages_apps_Evolver::Evolver: pif: preserve per-package patch config on canary fetch
+proprietary_vendor_oneplus_infiniti::infiniti: CPH2747_16.0.9.400(EX01) Dump
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: CPH2747_16.0.9.400(EX01) Dump
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: source + register Dolby Vision codecs (Include + un-comment *_vendor.xml)
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: Sync with device tree
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: CPH2747_16.0.8.300(EX01) Dump
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: Switch to infiniti blobs
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: Add KmInstallKeybox prebuilt vendor binary
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: Build libvmmem from source
+proprietary_vendor_oneplus_camera-infiniti::infiniti-camera: Sync with devic e tree
