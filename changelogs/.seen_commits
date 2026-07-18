@@ -807,3 +807,13 @@ proprietary_vendor_oneplus_sm8850-common::sm8850-common: Switch to infiniti blob
 proprietary_vendor_oneplus_sm8850-common::sm8850-common: Add KmInstallKeybox prebuilt vendor binary
 proprietary_vendor_oneplus_sm8850-common::sm8850-common: Build libvmmem from source
 proprietary_vendor_oneplus_camera-infiniti::infiniti-camera: Sync with devic e tree
+proprietary_vendor_oneplus_camera-infiniti::Infiniti: Override Aperture
+proprietary_vendor_oneplus_infiniti::infiniti: Add sha1sum for new EVO Fastboot/boot splash
+proprietary_vendor_oneplus_infiniti::infiniti: Ship fastboot splash
+proprietary_vendor_oneplus_infiniti::infiniti: Track sha1sum new splash
+proprietary_vendor_oneplus_infiniti::infiniti: Add custom boot/Fastboot EVO slpash
+proprietary_vendor_oneplus_infiniti::infiniti: Sync with device tree
+proprietary_vendor_oneplus_infiniti::infiniti: Revert de-blob
+proprietary_vendor_oneplus_infiniti::infiniti: Setup LFS
+proprietary_vendor_oneplus_infiniti::infiniti: Sync with device tree and remove some blobs
+proprietary_vendor_oneplus_infiniti::infiniti: CPH2747_16.0.8.300(EX01) Dump
