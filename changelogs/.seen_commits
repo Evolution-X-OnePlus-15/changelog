@@ -817,3 +817,7 @@ proprietary_vendor_oneplus_infiniti::infiniti: Revert de-blob
 proprietary_vendor_oneplus_infiniti::infiniti: Setup LFS
 proprietary_vendor_oneplus_infiniti::infiniti: Sync with device tree and remove some blobs
 proprietary_vendor_oneplus_infiniti::infiniti: CPH2747_16.0.8.300(EX01) Dump
+proprietary_vendor_oneplus_camera-infiniti::.
+proprietary_vendor_oneplus_camera-infiniti::test
+proprietary_vendor_oneplus_sm8850-common::sync
+proprietary_vendor_oneplus_infiniti::sync
