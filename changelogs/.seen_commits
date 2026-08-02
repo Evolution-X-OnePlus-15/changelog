@@ -821,3 +821,5 @@ proprietary_vendor_oneplus_camera-infiniti::.
 proprietary_vendor_oneplus_camera-infiniti::test
 proprietary_vendor_oneplus_sm8850-common::sync
 proprietary_vendor_oneplus_infiniti::sync
+proprietary_vendor_oneplus_sm8850-common::sm8350-common: Introduce Dolby Atmos
+proprietary_vendor_oneplus_sm8850-common::sm8850-common: Drop KmInstallBox
