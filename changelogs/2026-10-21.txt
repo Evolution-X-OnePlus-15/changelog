@@ -1,0 +1,8 @@
+Notable ROM changes 10/21:
+==============================
+Evolver: rework spoofing, pickers and dialogs with M3 Expressive
+Settings: AppLock: add inset focus ring to the RadioButtons
+Settings: AppLock: use ExpressiveTextField for PIN and password
+Settings: add Material 3 scrollbar to Blur, Vehicle Motion Cues and AppLock lists
+Settings: redesign model page with Material 3 Expressive
+Settings: Add cellular security network internet icon
