@@ -1530,3 +1530,16 @@ packages_apps_Settings::Settings: AppLock: use ExpressiveTextField for PIN and p
 packages_apps_Settings::Settings: add Material 3 scrollbar to Blur, Vehicle Motion Cues and AppLock lists
 packages_apps_Settings::Settings: redesign model page with Material 3 Expressive
 packages_apps_Settings::Settings: Add cellular security network internet icon
+packages_apps_Evolver::Evolver: Add face unlock animation toggle [2/2]
+packages_apps_Evolver::Evolver: Cap trailing row content at half the row width
+packages_apps_Evolver::Evolver: Add master switch to hide screen capture status from apps [2/2]
+packages_apps_Evolver::Evolver: lockscreen: Add option to show the status bar above media art
+packages_apps_Evolver::Evolver: themes: Pick boot animations by name, add custom emoji fonts
+vendor_evolution::bootanimation: add prism and prism_dynamic boot animations
+vendor_evolution::bootanimation: add aespa-style Evolution X boot animation
+packages_apps_Settings::Settings: AppLock: use Expressive dialogs, text fields and focus ring
+packages_apps_Settings::Settings: gestures: Restart current IME on IME space toggle
+vendor_pixel-style::PixelConfigOverlay2021: Don't disable the volume hush gesture
+device_evolution_sepolicy::sepolicy: label the boot animation name property
+vendor_extras::extras: fonts: Add new fonts
+vendor_extras::extras: Update BCR to Version v3.11

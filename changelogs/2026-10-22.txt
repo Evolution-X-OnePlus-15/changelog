@@ -1,0 +1,15 @@
+Notable ROM changes 10/22:
+==============================
+Evolver: Add face unlock animation toggle [2/2]
+Evolver: Cap trailing row content at half the row width
+Evolver: Add master switch to hide screen capture status from apps [2/2]
+Evolver: lockscreen: Add option to show the status bar above media art
+Evolver: themes: Pick boot animations by name, add custom emoji fonts
+bootanimation: add prism and prism_dynamic boot animations
+bootanimation: add aespa-style Evolution X boot animation
+Settings: AppLock: use Expressive dialogs, text fields and focus ring
+Settings: gestures: Restart current IME on IME space toggle
+PixelConfigOverlay2021: Don't disable the volume hush gesture
+sepolicy: label the boot animation name property
+extras: fonts: Add new fonts
+extras: Update BCR to Version v3.11
