@@ -1,0 +1,5 @@
+Notable ROM changes 11/07:
+==============================
+Evolver: Themes: Lock the shade style with the ColorOS QS panel
+Evolver: TrickyStore: Hide device RKP on unsupported devices
+Evolver: DynamicIsland: Add the live updates switch
