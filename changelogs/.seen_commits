@@ -1719,3 +1719,6 @@ vendor_extras::extras: Drop SansSerif Fonts
 packages_apps_Evolver::Evolver: Themes: Lock the shade style with the ColorOS QS panel
 packages_apps_Evolver::Evolver: TrickyStore: Hide device RKP on unsupported devices
 packages_apps_Evolver::Evolver: DynamicIsland: Add the live updates switch
+packages_apps_Evolver::Evolver: TrickyStore: Handle unsupported device RKP and hide keybox UI
+packages_apps_Evolver::Evolver: QuickSettings: Add a Nothing color style list
+packages_apps_Evolver::Evolver: DynamicIsland: Add a ColorOS style switch
