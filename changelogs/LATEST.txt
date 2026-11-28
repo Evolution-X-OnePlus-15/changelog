@@ -1,5 +1,14 @@
-Notable ROM changes 11/27:
+Notable ROM changes 11/28:
 ==============================
-SystemUIGoogle: Keep Now Playing above keyguard indications
-themes: Add the online boot animation catalog
-codec2: vndk: Allow a process to force HIDL bufferpool block pools
+Evolver: TrickyStore: Show keybox details for device RKP keyboxes
+Evolver: DynamicBar: Add card style option
+Evolver: Add Blackhole screen off animation [2/2]
+Evolver: TrickyStore: Add keybox details
+sepolicy: Add an attribute for core domains that read pstore
+overlay: Add the Words clock
+packages: build LMOSystemUIClocks
+clock: Remove Sixtyfour
+Revert "words: Ship under the stock handwritten package id"
+sepolicy: Label ro.evolution.* and ro.modversion properties
+Settings: VolumeSliderPreference: Observe stream max changes
+Settings: Extend volume stream steps to ring and notifications [2/2]

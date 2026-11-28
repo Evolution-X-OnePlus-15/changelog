@@ -1945,3 +1945,15 @@ packages_apps_Settings::Settings: Guard volume sliders against an empty range
 vendor_packages_SystemUIGoogle::SystemUIGoogle: Keep Now Playing above keyguard indications
 vendor_themes::themes: Add the online boot animation catalog
 frameworks_av::codec2: vndk: Allow a process to force HIDL bufferpool block pools
+packages_apps_Evolver::Evolver: TrickyStore: Show keybox details for device RKP keyboxes
+packages_apps_Evolver::Evolver: DynamicBar: Add card style option
+packages_apps_Evolver::Evolver: Add Blackhole screen off animation [2/2]
+packages_apps_Evolver::Evolver: TrickyStore: Add keybox details
+system_sepolicy::sepolicy: Add an attribute for core domains that read pstore
+vendor_evolution::overlay: Add the Words clock
+vendor_evolution::packages: build LMOSystemUIClocks
+packages_apps_LMOSystemUIClock::clock: Remove Sixtyfour
+packages_apps_SystemUIClocks::Revert "words: Ship under the stock handwritten package id"
+device_evolution_sepolicy::sepolicy: Label ro.evolution.* and ro.modversion properties
+packages_apps_Settings::Settings: VolumeSliderPreference: Observe stream max changes
+packages_apps_Settings::Settings: Extend volume stream steps to ring and notifications [2/2]
